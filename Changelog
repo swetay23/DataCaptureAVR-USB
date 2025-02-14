@@ -1,0 +1,6 @@
+13Jun2009
+	* Added test description to the file header of mcin.c
+   * Function nWriteUSB( S8Bit *) changed to nWriteUSB(S8Bit *, U8Bit)
+     with length of data  string  to  be  sent  to  muC  passed  as  a
+     parameter. This is to take care of cases where  the  data  string
+     written contains a null character.

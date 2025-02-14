@@ -21,7 +21,7 @@
 
 /* -------------------------- Device Description --------------------------- */
 
-#define USB_CFG_VENDOR_NAME      'I', 'I', 'T'
+#define USB_CFG_VENDOR_NAME      'H', 'B'
 #define USB_CFG_VENDOR_NAME_LEN  3
 #define USB_CFG_DEVICE_NAME      'U', 'S', 'B', ' ', 'T', 'e', 's', 't'
 #define USB_CFG_DEVICE_NAME_LEN  8
